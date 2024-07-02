@@ -3,9 +3,6 @@
 
 int main()
 {
-    // int roundTo;  
-    // scanf("%d", &roundTo);
-
     double pi = acosl(-1);
     
     int userInput;
